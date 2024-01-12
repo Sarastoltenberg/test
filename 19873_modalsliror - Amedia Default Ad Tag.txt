@@ -1,11 +1,2 @@
 <!-- 320x250 - 19873_modalsliror_Service, rørleggerne våre, reparasjoner og ny montering (IX 1108980 - MODALSLI RØR LISTER AS)-Lyngdal -->
 <script src="https://c.bannerflow.net/a/6450ebb53f0dbac80e22a942?did=5d7106ae39d71e0001cd1b68&deeplink=on&redirecturl=%%CLICK_URL_ESC%%&cb=%%CACHEBUSTER%%" async></script>
-
-<!-- 320x250 - 19873_modalsliror_Service, rørleggerne våre, reparasjoner og ny montering (IX 1108980 - MODALSLI RØR LISTER AS)-Farsund -->
-<script src="https://c.bannerflow.net/a/6450ebb53f0dbac80e22a943?did=5d7106ae39d71e0001cd1b68&deeplink=on&redirecturl=%%CLICK_URL_ESC%%&cb=%%CACHEBUSTER%%" async></script>
-
-<!-- 580x500 - 19873_modalsliror_Service, rørleggerne våre, reparasjoner og ny montering (IX 1108980 - MODALSLI RØR LISTER AS)-Lyngdal -->
-<script src="https://c.bannerflow.net/a/6450ebb53f0dbac80e22a944?did=5d7106ae39d71e0001cd1b68&deeplink=on&redirecturl=%%CLICK_URL_ESC%%&cb=%%CACHEBUSTER%%" async></script>
-
-<!-- 580x500 - 19873_modalsliror_Service, rørleggerne våre, reparasjoner og ny montering (IX 1108980 - MODALSLI RØR LISTER AS)-Farsund -->
-<script src="https://c.bannerflow.net/a/6450ebb53f0dbac80e22a945?did=5d7106ae39d71e0001cd1b68&deeplink=on&redirecturl=%%CLICK_URL_ESC%%&cb=%%CACHEBUSTER%%" async></script>
